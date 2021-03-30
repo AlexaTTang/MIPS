@@ -1,2 +1,4 @@
 # MIPS
-Series of MIPs assignments
+- Hw3: Input/Output
+- Hw4: Frequency
+- Hw5: Comb
